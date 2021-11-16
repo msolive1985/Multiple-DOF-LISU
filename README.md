@@ -18,3 +18,5 @@ Tu run LISU, we recommend using Anaconda. Anaconda is a distribution of packages
 10.	 From the menu you can select from 3 options: 1) start with the automatic setup for the input devices, 2) see the supported devices in the ontology, or q) exit the program.
 
 UDP port 7755 outgoing from clients that will interface with VR applications.
+
+Check it on: Sandoval, Mario (2021), “Multiple Degrees-Of-Freedom Input Devices for Interactive Command and Control within Virtual Reality in Industrial Visualisations”, Mendeley Data, V1, doi: 10.17632/yhnfc4cpmt.1
