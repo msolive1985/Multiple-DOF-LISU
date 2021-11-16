@@ -1,0 +1,2 @@
+# Multiple-DOF-LISU
+A new automated layered computing framework called Library for Interactive Settings and User-Modes (LISU) allows multiple input devices with multiple degrees of freedom (DOF) to interact simultaneously, allowing for more intuitive and natural behaviour.  The findings of this work support the notion of the naturalness, learnability and transfer learning of an HCI to understand, test, evaluate, reengineer, and communicate virtual behaviour better. 
