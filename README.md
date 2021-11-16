@@ -3,7 +3,7 @@ Adding multiple DOF input devices with suitable guidelines does not necessarily 
 
 LISU's multilayered architecture allows interaction directly with the rendered volume and seamlessly uses multiple different input devices to operate the same visualisation API parameters. LISU unifies the roles of multiple APIs for input management to resolve interoperability and compatibility issues caused by the heterogeneity of input controllers, thus enabling a large number of multiple DOF to create a natural and intuitive behaviour.  
 
-Tu run LISU, we recommend using Anaconda. Anaconda is a distribution of packages built for data science. It comes with conda, a package, and environment manager. We usually used conda to create environments for isolating our projects that use different versions of Python and/or different version of packages.
+Tu run LISU, we recommend using Anaconda. Anaconda is a distribution of packages built for data science. It comes with conda, a package, and environment manager. We usually use conda to create environments for isolating our projects that use different versions of Python and/or different version of packages.
 
 1.	Download the Anaconda installer
 2.	Double click the installer to launch. Complete all the steps for the installation of Anaconda (see: https://docs.anaconda.com/anaconda/install/windows/)
